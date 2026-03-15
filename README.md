@@ -8,5 +8,5 @@
 
 ## Tech Stack Used : 
 ### Frontend : AngularJS, Angular material
-### Backend : Java, Spring Boot, Hibernate, Spring JPA
+### Backend : Java, Spring Boot, Spring Security, Hibernate, Spring JPA
 ### Database : MySQL
